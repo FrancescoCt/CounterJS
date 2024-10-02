@@ -6,10 +6,9 @@
   <br/><br/>
   <b><a href="#features">Features</a></b> | <b><a href="#getting-started">Getting Started</a></b> | <b><a href="https://francescoct.github.io/">About me</a></b>
   <br/><br/>
-  <a href="https://github.com/francescoct/counterjs/blob/main/CHANGELOG.md"><img src="https://img.shields.io/github/package-json/v/francescoct/counterjs?logo=hackthebox&color=609966&logoColor=fff" alt="Current Version"/></a>
-  <a target="_blank" href="https://github.com/hywax/mafl"><img src="https://img.shields.io/github/last-commit/hywax/mafl?logo=github&color=609966&logoColor=fff" alt="Last commit"/></a>
-  <a target="_blank" href="https://hub.docker.com/r/hywax/mafl"><img src="https://img.shields.io/docker/pulls/hywax/mafl?logo=docker&color=609966&logoColor=fff" alt="Docker pulls"/></a>
-  <a href="https://github.com/hywax/mafl/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-609966?logo=opensourceinitiative&logoColor=fff" alt="License MIT"/></a>
+  <a href="https://github.com/FrancescoCt/CounterJS/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/version-0.1-blue" alt="Current Version"/></a>
+  <a target="_blank" href="https://github.com/hywax/mafl"><img src="https://img.shields.io/github/last-commit/francescoct/counterjs?logo=github&color=609966&logoColor=fff" alt="Last commit"/></a>
+  
   <br/><br/>
   <img src="https://raw.githubusercontent.com/hywax/mafl/main/docs/public/cover.png" alt="Mafl" width="100%"/>
 </p>
