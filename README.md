@@ -2,9 +2,9 @@
 <p align="center">
   <i>CounterJS is an intuitive counter entirely written in JS!</i>
   <br/><br/>
-  <img width="130" alt="Mafl" src="https://github.com/FrancescoCt/francescoct.github.io/blob/master/assets/favicons/javascript.png"/>
+  <img width="130" alt="Counter JS" src="https://github.com/FrancescoCt/francescoct.github.io/blob/master/assets/favicons/javascript.png"/>
   <br/><br/>
-  <b><a href="#features">Features</a></b> | <b><a href="#getting-started">Getting Started</a></b> | <b><a href="https://francescoct.github.io/">About me</a></b>
+  <b><a href="#features">Features</a></b> | <b><a href="#getting-started">How it works</a></b> | <b><a href="https://francescoct.github.io/">About me</a></b>
   <br/><br/>
   <a href="https://github.com/FrancescoCt/CounterJS/blob/main/CHANGELOG.md"><img src="https://img.shields.io/badge/version-0.1-blue" alt="Current Version"/></a>
   <a target="_blank" href="https://github.com/hywax/mafl"><img src="https://img.shields.io/github/last-commit/francescoct/counterjs?logo=github&color=609966&logoColor=fff" alt="Last commit"/></a>
@@ -17,8 +17,7 @@
   <summary><b>Table of Contents</b></summary>
 
 * [Features](#-features)
-* [Getting started](#-getting-started)
-  * [Node](#node)
+* [How it works](#-how-it-works)
 * [Icons](#-icons)
 * [Credits](#-credits)
   * [Contributors](#contributors)
@@ -27,23 +26,20 @@
 <h2 id="features">🎯 Features</h2> 
 
 * 🎨 **Themes**. Customize the look to your liking.
-* 🗂️ **Grouping**. Create custom service groups.
 * 👌 **Fun**. A few lines of yaml and your homepage is ready to go.
-* 🚀 **Fast**. Everything is fast and free of hang-ups.
-* 🐳 **Docker**. Optimized docker images for popular platforms.
-* ✨ **Free**. Mafl is completely free and open source.
+* 💻 **Languages**. HTML, CSS, Javascript <br/>
+  <img width="24" height="24" alt="Html" src="https://github.com/FrancescoCt/francescoct.github.io/blob/master/assets/favicons/html.png"/><img width="24" height="24" alt="Css" src="https://github.com/FrancescoCt/francescoct.github.io/blob/master/assets/favicons/css.png"/><img width="24" height="24" alt="Javascript" src="https://github.com/FrancescoCt/francescoct.github.io/blob/master/assets/favicons/javascript.png"/>
 
-<h2 id="getting-started">🚀 Getting started</h2>
+<h2 id="getting-started"> 🙈How it works🙉</h2>
+Make the monkey open its eyes! If the count exceeds a certain value, the monkey will look at you.
 
 ## 🖼 Icons
 
-Services can have icons. With support for several different icon packs, you can find the perfect thumbnail for any application or service.
+This page uses icons, with support for several different icon packs, you can find the perfect thumbnail for any application or service.
+Here is a list of packs:
 
-Supported types:
 * **[Iconify](https://icon-sets.iconify.design/)** - Over 200,000 open source vector icons
 * **Emoji** - Any valid emoji can be used as an icon
-* **URL** - Pass the URL of any matching image so that it can be found and displayed.
-* **Local** - Store custom images locally and reference them by file name
 
 ## 🏆 Credits
 
@@ -51,3 +47,4 @@ Supported types:
 * [Start2Impact](https://start2impact.it)
 
 ### Contributors
+[Francesco Catania](https://francescoct.github.io)
