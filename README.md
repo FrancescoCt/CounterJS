@@ -20,6 +20,7 @@
 
 * [Features](#-features)
 * [How it works](#-how-it-works)
+* [How to test it](#-how-to-test-it)
 * [Icons](#-icons)
 * [Credits](#-credits)
   * [Contributors](#contributors)
@@ -39,6 +40,9 @@
 * Click the '+' icon to increment shown value
 * Click the '-' icon to decrease shown value
 * Click the 'Change theme' button to change the theme (optional)
+## 💻 How to test it
+
+* Download the current repository and test it on localhost or try it online. Here is the [link](https://francescoct.github.io/projects/counterjs/).
 
 ## 🖼 Icons
 
