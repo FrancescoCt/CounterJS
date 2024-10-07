@@ -176,7 +176,6 @@ class PageCreator{
     +'</footer>';
     }
 }
-//const pageCreator = new PageCreator();
 const counter = new Counter();
 const themeToggle = new ThemeToggle();
 
